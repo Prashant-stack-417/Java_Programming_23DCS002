@@ -1,0 +1,4 @@
+Write a program to show use of character and byte stream.
+Also show use of
+BufferedReader/BufferedWriter to read console input
+and write them into a file.
